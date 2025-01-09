@@ -19,5 +19,9 @@ Essa aplicação mostra uma lista inicial de dez pokémons, com um botão(uma po
 2. No terminal, execute o comando `npm install` para instalar as dependências.
 3. Execute `npm run dev` para iniciar a aplicação web.
 
+## Como rodar o projeto:
+Link do deployment do Projeto :
+https://quest-pokedex-two.vercel.app/
+
 ## Desafios, decisões e informações adicionais
 Foi um projeto muito desafiador onde pude colocar a prova tudo que vim aprendendo no curso, eu busquei a simplicidade e objetividade. Após vários erro, tentativas e novos erros e bugs finalmente o acerto veio e consegui concluir o passo a passo que eu fiz anteriormente, que foi basicamente buscar a API, o caminho para as informações pedidas ( o mais dificil foram as descrições das habilidades ), fazer as requisições especificas para a quantidade de pokémons e por id(para conseguir buscar a descrição das habilidades), e organizando as informações e as requisições para renderizar na tela do usuário da maneira mais organizada e responsiva possível. Espero que que gostem e pretendo vim e adicionar algumas funcionalidades e testes nesse projeto futuramente, um compromisso que faço comigo mesmo publicamente. Até breve 😁.
